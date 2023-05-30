@@ -1,6 +1,13 @@
-# Frontend Project
+# Registration-Frontend
 
 This repository contains the frontend code for a Sign-up/Log-in project.
+
+## Tech Stack
+
+1. React
+2. MySQL
+3. NodeJS
+4. Axios
 
 ## Prerequisites
 
